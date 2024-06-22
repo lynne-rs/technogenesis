@@ -1,0 +1,54 @@
+body {
+	font: garamond;
+	background-color: #dd6932;
+}
+
+h1 {
+	text-align: center;
+	color: #FFFFFA;
+}
+
+p {
+	color: #3f0705;
+	margin: 20px;
+}
+
+a:link {
+	color: #FFFFFA;
+}
+
+a:visited {
+	color: #c03221;
+}
+
+.bulk {
+	font: sans-serif;
+	font-size: 18px;
+	color: #080705;
+	margin-right: 20%;
+	margin-left: 20%;
+	background-color: #fa9f42;
+	box-shadow: 10px 10px #c03221;
+}
+
+.navbar	{
+	font: sans-serif;
+	font-size: 18px;
+	margin-right: 20%;
+	margin-left: 20%;
+	background-color: #fa9f42;
+	box-shadow: 10px 10px #c03221;
+	display: block;
+	text-align: center;
+	padding: 18px;
+	text-decoration: none;
+}
+
+.navbar a {
+	color: #FFFFFA;
+	padding: 18px;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+	background-color: #c03221;
